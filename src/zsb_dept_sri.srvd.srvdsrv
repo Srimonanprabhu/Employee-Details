@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service definition dept'
+define service ZSB_DEPT_SRI {
+  expose ZC_DEPT_SRI;
+  expose ZC_EMPL_SRI;
+}
